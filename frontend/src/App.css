@@ -247,3 +247,9 @@ a {
 .note textarea::-webkit-scrollbar {
   display: none;
 }
+
+.errorMessage {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 40px;
+}
